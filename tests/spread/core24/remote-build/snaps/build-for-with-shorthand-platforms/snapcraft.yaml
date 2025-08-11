@@ -1,4 +1,4 @@
-name: build-for-with-shorthand-platforms-core24
+name: build-for-with-platforms-core24
 base: core24
 version: "1.0"
 summary: Test snap for remote build
